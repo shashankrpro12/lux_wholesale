@@ -1,0 +1,42 @@
+[
+  {
+    "filename": "01-image.png",
+    "sha256": "9e3271712ec2eb1ed1169066db2d2c0e2909247b9f631c149860773da923cc3c",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/7395c1dbd20b46c6bbb930569724b086f5328074556945c484fc9548c99b293b.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "02-image.png",
+    "sha256": "dfa279721084c66d472cd0b9520601f2b68ead3466a8ebea2788f437176665f4",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/92ec84b9c9d640918b21f034aa4b4b18857b6f8700ad4cbfae9dd29b0b291580.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "03-image.png",
+    "sha256": "1888a840d170acc8806f5b093786b8bd5dc9dd710e6346f3cb5d9b0169238c0b",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/2461e6020f2349de8cd8a800fd26093860096011fc22433bbb5440f6860c8801.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "04-image.png",
+    "sha256": "aa8c9b329cd69182faa86fffd9ffcdaad90d8d5da162e5290125a873f0f06793",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/232ec808a752442399e72c9de85e163d899f26ac2621427ea1a7ac407d9b5267.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "jv-community.srt",
+    "sha256": "39e520a1e2df2b60c92dff0d36e468428a9710ff097d207167f088ab7e4a2801",
+    "source": [
+      "https://www.skool.com/lux-blueprint-academy-9786/classroom/576c5cbc?md=3eab21afc4e64d04aa3ba39380463aac"
+    ],
+    "kind": "transcript export"
+  }
+]

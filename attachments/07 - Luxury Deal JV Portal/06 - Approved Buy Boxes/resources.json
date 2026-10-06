@@ -1,0 +1,42 @@
+[
+  {
+    "filename": "85254_85260 (east of scottsdale rd).png",
+    "sha256": "8ab4d930372817b332da8a8ad6b872919576977b451501bf1e024412faa26129",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/8f78bc1fa3514a9cab2e344bc7a8edcab4848c910c4546799ae146c8efa85750-md.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "85254_85260 Buy Box.png",
+    "sha256": "3bd49f24bb3d428090a179f9e8430c262a107b57420dcc437e8f4aa93a3e204b",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/c17824b10cf04aaa803cf60e17c27069424d53d2b2ac483994cdf0dab0a6d6a3.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "North Scottsdale Buy Box.png",
+    "sha256": "cb51a14a47fd85230bc7ee4b4da2e89eb107f1066a2138b9d2e7a99b6f765984",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/26b143c21d504f14a958894325ea2801c920c9c24703462395f1611a205a6fd0.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "Paradise Valley Buy Box.png",
+    "sha256": "0bddff3da52f449a30a59ef35b89b6ae1a2d0a0712cf60e9439df1425e7453ab",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/230524777aa044bf8c018eabba986bd9359fa5a078dc4ce68d0621db0eb8e720-md.png"
+    ],
+    "kind": "source resource"
+  },
+  {
+    "filename": "Screenshot 2026-06-25 at 9.51.43 AM.png",
+    "sha256": "d8d26e14a6649525f935d83b0ce1ec3975e358ded163d36666e5317260d92abd",
+    "source": [
+      "https://assets.skool.com/f/5640a423877f48ba81b0a18bd5dfec58/07990297cf4248e4ae01ec66583745e0ead63dccd2354dc2bfbbfcf80598193e-md.png"
+    ],
+    "kind": "source resource"
+  }
+]

@@ -43,3 +43,23 @@ Courses and sections are numbered in Skool order. Each lesson has its own ordere
 ## Luxury Real Estate Underwriting Guide
 
 [Ordered lesson folders, transcripts, and resources](06%20-%20Luxury%20Real%20Estate%20Underwriting%20Guide/README.md) · [Separate attachment copies](attachments/06%20-%20Luxury%20Real%20Estate%20Underwriting%20Guide/)
+
+## Luxury Deal JV Portal
+
+[Ordered lesson folders and resources](07%20-%20Luxury%20Deal%20JV%20Portal/README.md) · [Separate attachment copies](attachments/07%20-%20Luxury%20Deal%20JV%20Portal/)
+
+## 90 Day Guarantee Offer Submission
+
+[Ordered lesson folders and resources](08%20-%2090%20Day%20Guarantee%20Offer%20Submission/README.md)
+
+## BONUSES
+
+[Ordered lesson folders and resources](09%20-%20BONUSES/README.md) · [Separate attachment copies](attachments/09%20-%20BONUSES/)
+
+## SOPs
+
+[Ordered lesson folders and resources](10%20-%20SOPs/README.md) · [Separate attachment copies](attachments/10%20-%20SOPs/)
+
+## Documents
+
+[Ordered lesson folders and resources](11%20-%20Documents/README.md) · [Separate attachment copies](attachments/11%20-%20Documents/)
