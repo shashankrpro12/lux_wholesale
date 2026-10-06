@@ -30,4 +30,4 @@ Lessons 1–3 preserve YouTube auto-generated caption text; lesson 4 preserves t
 
 [Lessons, transcripts, and resources](magical-atm-marketing-strategy/README.md) · [Separate attachments](attachments/magical-atm-marketing-strategy/)
 
-The chapter index identifies source coming-soon entries and the one pending Loom transcript.
+The chapter index identifies source coming-soon entries. All available video transcripts, including the Loom Seller Texting Guide, are saved.
