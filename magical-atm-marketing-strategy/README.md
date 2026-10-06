@@ -22,25 +22,25 @@
 | 7 | LandAtlas | [Finding Buyers (COMING SOON)](LandAtlas/07-finding-buyers-coming-soon.md) | Source coming-soon placeholder |
 | 8 | LandAtlas | [Direct Mail (COMING SOON)](LandAtlas/08-direct-mail-coming-soon.md) | Source coming-soon placeholder |
 | 9 | LandAtlas | [LandAtlas JV Portal (COMING SOON)](LandAtlas/09-landatlas-jv-portal-coming-soon.md) | Source coming-soon placeholder |
-| 10 | ReplySmart | [Signing Up and Account Set Up](ReplySmart/10-replysmart-account-setup.md) | 4:04 caption transcript |
-| 11 | ReplySmart | [Creating SMS Templates and Quick Replies](ReplySmart/11-sms-templates-and-quick-replies.md) | 12:01 caption transcript |
-| 12 | ReplySmart | [Sending a Campaign](ReplySmart/12-sending-a-campaign.md) | 7:25 caption transcript |
-| 13 | ReplySmart | [Working Leads](ReplySmart/13-working-leads.md) | Replacement training transcript included |
-| 14 | ReplySmart | [How To Close Deals Over Text](ReplySmart/14-how-to-close-deals-over-text.md) | 11:10 Loom transcript and Word attachment saved |
-| 15 | ReplySmart | [Example Call](ReplySmart/15-example-call.md) | 8:31 caption transcript |
-| 16 | ReplySmart | [Connecting ReplySmart and LandAtlas (COMING SOOON)](ReplySmart/16-connecting-replysmart-landatlas-coming-soon.md) | Source coming-soon placeholder |
+| 10 | ReplySmart | [Signing Up and Account Set Up](ReplySmart/Signing%20Up%20and%20Account%20Set%20Up.md) | 4:04 caption transcript |
+| 11 | ReplySmart | [Creating SMS Templates and Quick Replies](ReplySmart/Creating%20SMS%20Templates%20and%20Quick%20Replies.md) | 12:01 caption transcript |
+| 12 | ReplySmart | [Sending a Campaign](ReplySmart/Sending%20a%20Campaign.md) | 7:25 caption transcript |
+| 13 | ReplySmart | [Working Leads](ReplySmart/Working%20Leads.md) | Replacement training transcript included |
+| 14 | ReplySmart | [How To Close Deals Over Text](ReplySmart/How%20To%20Close%20Deals%20Over%20Text.md) | 11:10 Loom transcript and Word attachment saved |
+| 15 | ReplySmart | [Example Call](ReplySmart/Example%20Call.md) | 8:31 caption transcript |
+| 16 | ReplySmart | [Connecting ReplySmart and LandAtlas (COMING SOOON)](ReplySmart/Connecting%20ReplySmart%20and%20LandAtlas%20%28COMING%20SOOON%29.md) | Source coming-soon placeholder |
 | 17 | Free Marketing Strategy | [What I Can't Use Magical ATM Marketing Strategy?](Free%20Marketing%20Strategy/17-alternative-marketing-strategy.md) | 19:14 caption transcript |
 | 18 | Free Marketing Strategy | [Free Texting Strategy](Free%20Marketing%20Strategy/18-free-texting-strategy.md) | PDF resource saved |
 
 ## Attachments
 
-- [Common Responses Flowchart.pdf](ReplySmart/Common%20Responses%20Flowchart.pdf)
-- [Example SMS Templates.pdf](ReplySmart/Example%20SMS%20Templates.pdf)
-- [Working Leads SOP.pdf](ReplySmart/Working%20Leads%20SOP.pdf)
+- [Common Responses Flowchart.pdf](ReplySmart/Resources/Common%20Responses%20Flowchart.pdf)
+- [Example SMS Templates.pdf](ReplySmart/Resources/Example%20SMS%20Templates.pdf)
+- [Working Leads SOP.pdf](ReplySmart/Resources/Working%20Leads%20SOP.pdf)
 - [Free Texting How To.pdf](Free%20Marketing%20Strategy/Free%20Texting%20How%20To.pdf)
-- [Seller Texting Guide.docx](ReplySmart/Seller%20Texting%20Guide.docx)
+- [Seller Texting Guide.docx](ReplySmart/Resources/Seller%20Texting%20Guide.docx)
 
-- [Original Loom transcript.srt](ReplySmart/Seller%20Texting%20Guide%20for%20High%20Net%20Worth.srt)
+- [Original Loom transcript.srt](ReplySmart/Resources/Seller%20Texting%20Guide%20for%20High%20Net%20Worth.srt)
 
 [Identical separate attachment copies](../attachments/magical-atm-marketing-strategy)
 

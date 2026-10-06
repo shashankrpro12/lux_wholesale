@@ -13,8 +13,8 @@ Replacement training explicitly linked by the Magical ATM Working Leads lesson. 
 
 ## Resources
 
-- [Common Responses Flowchart](../Common%20Responses%20Flowchart.pdf)
-- [Working Leads SOP](../Working%20Leads%20SOP.pdf)
+- [Common Responses Flowchart](../Resources/Common%20Responses%20Flowchart.pdf)
+- [Working Leads SOP](../Resources/Working%20Leads%20SOP.pdf)
 
 ## Transcript
 
