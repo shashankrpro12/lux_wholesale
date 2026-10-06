@@ -12,3 +12,8 @@ Transcripts extracted from the videos linked in the Skool classroom on October 5
 | 4 | [LUXURY WHOLESALE DEAL START TO FINISH](welcome/04-luxury-wholesale-deal-start-to-finish.md) | 6:33 | English CC transcript extracted |
 
 Lessons 1–3 preserve YouTube auto-generated caption text; lesson 4 preserves the native Skool English CC track. They have not been independently verified against the audio. No raw videos, session tokens, or account credentials are stored in this repository.
+
+## Welcome attachments
+
+- [Transaction Process PDF](welcome/Transaction%20Process.pdf) — original attachment from the fourth Welcome lesson.
+- [Separate attachment copy](attachments/welcome/Transaction%20Process.pdf) — identical copy for the attachments archive.

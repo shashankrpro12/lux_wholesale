@@ -188,3 +188,7 @@ Timestamped transcript extracted from the lesson's English CC track. Caption wor
 [6:29] If you have any questions, make sure you hit us up in the community, and we'll
 [6:32] get you
 [6:32] straightened out.
+
+## Attachment
+
+[Transaction Process PDF](Transaction%20Process.pdf)
