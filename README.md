@@ -35,3 +35,7 @@ The chapter index identifies source coming-soon entries. All available video tra
 ## Folder structure
 
 Courses and sections are numbered in Skool order. Each lesson has its own ordered folder with its transcript and resources. The attachments archive mirrors the course, section, and lesson folders.
+
+## Luxury Sales Training Masterclass
+
+[Ordered lesson folders, transcripts, and resources](05%20-%20Luxury%20Sales%20Training%20Masterclass/README.md) · [Separate attachment copies](attachments/05%20-%20Luxury%20Sales%20Training%20Masterclass/)
