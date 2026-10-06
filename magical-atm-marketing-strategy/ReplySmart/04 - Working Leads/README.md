@@ -16,4 +16,4 @@ The strategy on how we actually work the leads is the same, its just the softwar
 
 ## Referenced training
 
-[How To Work Leads In SmarterContact — 52:36 transcript](references/working-leads-smartercontact.md)
+[How To Work Leads In SmarterContact — 52:36 transcript](How%20To%20Work%20Leads%20In%20SmarterContact.md)

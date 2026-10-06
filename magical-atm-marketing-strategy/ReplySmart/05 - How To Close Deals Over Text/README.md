@@ -16,9 +16,9 @@ Duration: approximately 11:10. Transcript source: Loom-provided SRT downloaded f
 
 ## Resources
 
-- [Seller Texting Guide.docx](Resources/Seller%20Texting%20Guide.docx)
+- [Seller Texting Guide.docx](Seller%20Texting%20Guide.docx)
 
-- [Original Loom transcript.srt](Resources/Seller%20Texting%20Guide%20for%20High%20Net%20Worth.srt)
+- [Original Loom transcript.srt](Seller%20Texting%20Guide%20for%20High%20Net%20Worth.srt)
 
 ## Transcript
 

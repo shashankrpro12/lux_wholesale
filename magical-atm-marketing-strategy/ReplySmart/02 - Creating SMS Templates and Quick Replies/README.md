@@ -351,4 +351,4 @@ Timestamped transcript extracted from the native Skool English CC track. Caption
 
 ## Resources
 
-- [Example SMS Templates.pdf](Resources/Example%20SMS%20Templates.pdf)
+- [Example SMS Templates.pdf](Example%20SMS%20Templates.pdf)
