@@ -25,3 +25,9 @@ Lessons 1–3 preserve YouTube auto-generated caption text; lesson 4 preserves t
 ## Luxury Real Estate Cash Buyer Guide
 
 [Chapter transcript and resources](luxury-real-estate-cash-buyer-guide/README.md) · [Separate attachment copies](attachments/luxury-real-estate-cash-buyer-guide/)
+
+## The Magical ATM Marketing Strategy
+
+[Lessons, transcripts, and resources](magical-atm-marketing-strategy/README.md) · [Separate attachments](attachments/magical-atm-marketing-strategy/)
+
+The chapter index identifies source coming-soon entries and the one pending Loom transcript.
