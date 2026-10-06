@@ -17,3 +17,7 @@ Lessons 1–3 preserve YouTube auto-generated caption text; lesson 4 preserves t
 
 - [Transaction Process PDF](welcome/Transaction%20Process.pdf) — original attachment from the fourth Welcome lesson.
 - [Separate attachment copy](attachments/welcome/Transaction%20Process.pdf) — identical copy for the attachments archive.
+
+## Luxury Market Analysis Course
+
+[Chapter lessons, transcript, and resources](luxury-market-analysis/README.md) · [Separate attachment copies](attachments/luxury-market-analysis/)
