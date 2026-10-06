@@ -21,3 +21,7 @@ Lessons 1–3 preserve YouTube auto-generated caption text; lesson 4 preserves t
 ## Luxury Market Analysis Course
 
 [Chapter lessons, transcript, and resources](luxury-market-analysis/README.md) · [Separate attachment copies](attachments/luxury-market-analysis/)
+
+## Luxury Real Estate Cash Buyer Guide
+
+[Chapter transcript and resources](luxury-real-estate-cash-buyer-guide/README.md) · [Separate attachment copies](attachments/luxury-real-estate-cash-buyer-guide/)
