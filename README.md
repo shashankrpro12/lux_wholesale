@@ -39,3 +39,7 @@ Courses and sections are numbered in Skool order. Each lesson has its own ordere
 ## Luxury Sales Training Masterclass
 
 [Ordered lesson folders, transcripts, and resources](05%20-%20Luxury%20Sales%20Training%20Masterclass/README.md) · [Separate attachment copies](attachments/05%20-%20Luxury%20Sales%20Training%20Masterclass/)
+
+## Luxury Real Estate Underwriting Guide
+
+[Ordered lesson folders, transcripts, and resources](06%20-%20Luxury%20Real%20Estate%20Underwriting%20Guide/README.md) · [Separate attachment copies](attachments/06%20-%20Luxury%20Real%20Estate%20Underwriting%20Guide/)
